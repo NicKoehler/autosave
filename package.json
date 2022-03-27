@@ -2,6 +2,10 @@
   "name": "autosave",
 	"displayName": "autosave",
 	"description": "Autosave every time the document is changed",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NicKoehler/autosave"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.65.0"
